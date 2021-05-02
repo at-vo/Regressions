@@ -1,2 +1,2 @@
 # Regressions
-See report for outputs of code
+* See Regressions.pdf for final results of code
