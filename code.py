@@ -1,10 +1,3 @@
-'''
-        DAT VO
-        250983323
-        CS 4442 ASN 1
-        BOYU WANG
-'''
-
 import matplotlib.pyplot as plt
 import numpy as np
 from numpy.core.numeric import identity
